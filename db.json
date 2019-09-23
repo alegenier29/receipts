@@ -1,0 +1,50 @@
+[
+	{
+		"plant_code": "1001",
+		"product_code": "413711000",
+		"supplier_order_no": "4571690",
+		"supplier_code": "JD461D5",
+		"supplier_description": "...",
+		"order_date": "2019-06-20",
+		"order_type": "B1",
+		"order_line_no": "691756",
+		"outstanding_qty": "12.36",
+		"ship_date": "2019-06-20",
+		"expected_delivery_date": "2019-06-29",
+		"purchase_document_no": "HDEI9753HYE08",
+		"purchase_document_type": "HDEI9753HYE08",
+		"is_external": false
+	},
+	{
+		"plant_code": "1001",
+		"product_code": "413711000",
+		"supplier_order_no": "4571699",
+		"supplier_code": "JD461DX",
+		"supplier_description": "...",
+		"order_date": "2019-06-20",
+		"order_type": "B1",
+		"order_line_no": "691756",
+		"outstanding_qty": "12.36",
+		"ship_date": "2019-06-20",
+		"expected_delivery_date": "2019-06-29",
+		"purchase_document_no": "HDEI9753HYE08",
+		"purchase_document_type": "HDEI9753HYE08",
+		"is_external": false
+	},
+	{
+		"plant_code": "1001",
+		"product_code": "413711000",
+		"supplier_order_no": "4571699",
+		"supplier_code": "JD461D5",
+		"supplier_description": "...",
+		"order_date": "2019-06-20",
+		"order_type": "B1",
+		"order_line_no": "691756",
+		"outstanding_qty": "12.36",
+		"ship_date": "2019-06-20",
+		"expected_delivery_date": "2019-06-29",
+		"purchase_document_no": "HDEI9753HYE08",
+		"purchase_document_type": "HDEI9753HYE08",
+		"is_external": false
+	}
+]
